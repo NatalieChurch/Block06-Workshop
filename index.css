@@ -1,0 +1,32 @@
+html{
+    background-color: lightsteelblue;
+}
+
+section{
+    background-color: lightpink;
+}
+
+h2{
+    background-color: rgb(212, 121, 189);
+}
+
+h3{
+    background-color: lightskyblue
+
+}
+
+img{
+   padding: 5px;
+   margin: auto;
+
+}
+
+th{
+    margin-left: 0px;
+}
+
+.IMAGES{
+    height: 100px;
+    width: auto;
+    border: 5px solid black;
+}
